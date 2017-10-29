@@ -22,7 +22,7 @@ Algorithms are the heart of computer science, and the subject has countless prac
 	
 	[Code](Lecture/09/e)
 
-10. ** Master Method**
+10. **Master Method**
 
 	In the analysis of algorithms, the master theorem for divide-and-conquer recurrences provides an asymptotic analysis (using Big O notation) for recurrence relations of types that occur in the analysis of many divide and conquer algorithms. The approach was first presented by Jon Bentley, Dorothea Haken, and James B. Saxe in 1980, where it was described as a "unifying method" for solving such recurrences.
 
