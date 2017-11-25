@@ -34,5 +34,5 @@ Algorithms are the heart of computer science, and the subject has countless prac
 
 	
 
-	[Lecture Note](Lecture/11/l)
+	[Lecture Note](Lecture/11/l.pdf)
 	
