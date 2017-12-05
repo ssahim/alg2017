@@ -41,6 +41,15 @@ Algorithms are the heart of computer science, and the subject has countless prac
 
 	[Graph Code](practical/graph/)
 
+13. ** Linear and Binary Search**
+
+* **Linear Search:** In computer science, linear search or sequential search is a method for finding a target value within a list. It sequentially checks each element of the list for the target value until a match is found or until all the elements have been searched.
+
+* **Binary Search** In computer science, binary search, also known as half-interval search, logarithmic search, or binary chop, is a search algorithm that finds the position of a target value within a sorted array.
+
+
+	[Lecture Note](Lecture/13/13-Linear-Search-Binary-Search.pdf)
+
 ## Java Lectures
 
 [Java lectures](java/)
