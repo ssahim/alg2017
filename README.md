@@ -41,7 +41,7 @@ Algorithms are the heart of computer science, and the subject has countless prac
 
 	[Graph Code](practical/graph/)
 
-13. ** Linear and Binary Search**
+13. **Linear and Binary Search**
 
 * **Linear Search:** In computer science, linear search or sequential search is a method for finding a target value within a list. It sequentially checks each element of the list for the target value until a match is found or until all the elements have been searched.
 
