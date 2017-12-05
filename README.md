@@ -50,6 +50,8 @@ Algorithms are the heart of computer science, and the subject has countless prac
 
 	[Lecture Note](Lecture/13/13-Linear-Search-Binary-Search.pdf)
 
+	[Code](practical/search/)
+
 ## Java Lectures
 
 [Java lectures](java/)
