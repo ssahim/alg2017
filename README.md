@@ -5,6 +5,12 @@ Algorithms are the heart of computer science, and the subject has countless prac
 
 ## Topics
 
+## Midterm Exam 
+
+Dear Students you can find your midterm grades in the following result sheet.
+
+[Midterm Result Sheet](grades.pdf)
+
 08. **Merge Sort**
 
 	In computer science, merge sort (also commonly spelled mergesort) is an efficient, general-purpose, comparison-based sorting algorithm. Most implementations produce a stable sort, which means that the implementation preserves the input order of equal elements in the sorted output. Mergesort is a divide and conquer algorithm that was invented by John von Neumann in 1945. A detailed description and analysis of bottom-up mergesort appeared in a report by Goldstine and Neumann as early as 1948.
@@ -51,6 +57,16 @@ Algorithms are the heart of computer science, and the subject has countless prac
 	[Lecture Note](Lecture/13/13-Linear-Search-Binary-Search.pdf)
 
 	[Code](practical/search/)
+
+14. **Linked Lists**
+
+	[Lecture Note](Lecture/14/14-Data_structure.pdf)
+
+	[Code](practical/llist/)
+
+15. **Stack and Queue**
+
+	[Lecture Note](Lecture/15/15-Stack-Queue.pdf)
 
 ## Java Lectures
 
